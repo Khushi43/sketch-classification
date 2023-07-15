@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(162, 112, 209);
+}
+
+#score{
+    font-size:20px;
+    margin-left:500px;
+}
+
+#time{
+    font-size:15;
+    float:right;
+    margin-right:500px;
+}
+
+#targetSketch{
+    color:whitesmoke;
+}
